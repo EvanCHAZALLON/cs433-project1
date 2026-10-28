@@ -1,0 +1,12 @@
+# Only the project files are versioned (data is too large, see README)
+*
+!.gitignore
+!README.md
+!implementations.py
+!run.py
+!preprocess.py
+!model_selection.py
+!helpers.py
+!exploration.ipynb
+!submission.csv
+!.gitattributes
